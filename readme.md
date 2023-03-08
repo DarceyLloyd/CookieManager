@@ -4,7 +4,7 @@ Just a quick and painless cookie wrapper.
 
 ### Install
 ```
-npm i cookiemanager
+npm i @aftc/cookiemanager
 ```
 
 ### Arguments
