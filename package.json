@@ -1,10 +1,11 @@
 {
-  "name": "cookiemanager",
-  "version": "0.8.0",
+  "name": "@aftc/cookiemanager",
+  "version": "0.8.2",
   "description": "CookieManager",
-  "types": "index.d.ts",
-  "main": "CookieManager.js",
+  "types": "types/index.d.ts",
+  "main": "index.js",
   "module": "CookieManager.js",
+  "filename": "CookieManager.js",
   "sideEffects": false,
   "scripts": {
     "buildTypesDoNotUse": "npx -p typescript tsc"

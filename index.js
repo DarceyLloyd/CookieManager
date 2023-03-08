@@ -1,4 +1,4 @@
-import { CookieManager } from 'CookieManager';
+import { CookieManager } from './src/CookieManager';
 
 export { 
 	CookieManager
