@@ -1,6 +1,6 @@
 {
   "name": "@aftc/cookiemanager",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "CookieManager",
   "types": "types/index.d.ts",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "sideEffects": false,
   "scripts": {
     "buildTypesDoNotUse": "npx -p typescript tsc",
-    "publish": "npm publish --access=public"
+    "pub": "npm publish --access=public"
   },
   "keywords": [],
   "author": "",

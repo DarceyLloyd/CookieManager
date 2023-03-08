@@ -69,7 +69,7 @@ export class CookieManager {
     setExpiryTime(expiryTimeInSeconds: number) {
         const now = new Date();
         this.expiryTimeInSeconds = new Date(now.getTime() + (expiryTimeInSeconds * 1000));
-        console.warn(this.expiryTimeInSeconds);
+        // console.warn(this.expiryTimeInSeconds);
     }
     // - - - - - - - - - - - - - - - - - - - - - - - -
 
