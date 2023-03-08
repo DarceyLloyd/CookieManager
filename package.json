@@ -1,0 +1,18 @@
+{
+  "name": "cookiemanager",
+  "version": "0.8.0",
+  "description": "CookieManager",
+  "types": "index.d.ts",
+  "main": "CookieManager.js",
+  "module": "CookieManager.js",
+  "sideEffects": false,
+  "scripts": {
+    "buildTypesDoNotUse": "npx -p typescript tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  }
+}
